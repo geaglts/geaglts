@@ -2,7 +2,7 @@
 ### 🔮 [Portfolio](https://gxlts.tk/)
 
 Hi!
-My name is Miguel Angel, I'm from Mexico, a simple person with a simple life, sometimes I create software projects, almost always with JavaScript.
+My name is Miguel Angel, I'm from Mexico, I'm a simple person with a simple life, sometimes I create software projects, almost always with JavaScript.
 
 If you are interested in my work you can <a href="mailto:geaglts@gmail.com">email me</a>
 
