@@ -7,6 +7,6 @@ My name is Miguel Angel, I'm from Mexico, a simple person with a simple life, so
 If you are interested in my work you can <a href="mailto:geaglts@gmail.com">email me</a>
 
 ## Things that might interest you
-* 🌱 Very interested on JS world, Node and ReactJS
-* 🌱 Open to new technologies
+🌱 Very interested on JS world, Node and ReactJS
+🌱 Open to new technologies
 
