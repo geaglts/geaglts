@@ -1,5 +1,4 @@
 # Software Engineer - Full Stack JavaScript Developer
-### 🔮 [Portfolio](https://gxlts.tk/)
 
 Hi!
 My name is Miguel Angel, I'm from Mexico, I'm a simple person with a simple life, sometimes I create software projects, almost always with JavaScript.
